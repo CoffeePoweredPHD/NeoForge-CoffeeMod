@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+Main Ritual screen: crouch at campfire to open
+    Shows the 4 items in the campfire and lets you "smelt" them to unlock new power
+    Shows player and what bonds you have allocated
+    Has your activated rituals you can select and cast.
+Pylon screen: click to swap
+    Switches your view to the isometric, sees landscape and pylon.
+    Lets you move your vision to other pylons
+
+
+
+
+Ability: Creaking teleport
+
+Bonds
+    You have 3 bonds, can get x more.
+    Each pylon has 3 bonds, upgrade yourself to get x more.
+    Select a power to attach the bond and activate it, deselect to remove.
+
+Ritual types
+Personal - Effects you
+Pylon - Effects a pylon
+
+Permanent Type - Once unlocked you have it. eg the amount of ManaBonds
+Standard Bond Type - Once unlocked you can select and deselect it. You have 3 Bonds you can use(can be upgraded).
+Limited Type - Need to be unlocked.  After its unlocked you need some items and bonds to start it, runs for a duration then gives you the bond back. Usually strength 4 bonds only.
+
+
+
+Ritual List (add Creaking/spore/shadow theme to all/most of these) (Instead of 1 stat each make them themed eg health+regen, Speed+step height)
+Personal
+    Permanent
+        First ritual, activates a campfire, places pylon over it and adds it to your network. Can't activate if one already in range
+            Unlock: crouch and look at a campfire while holding an open eyeblossom
+
+        Increase ManaBonds - Personal Permanent
+            1. Increases the amount of bonds you can have by 1
+
+        PylonManaBonds - Personal Permanent
+            1. Increases the amount of bonds your pylons can have by 1
+
+        Increase ability strength
+
+
+Health 1-3 - Personal Bond
+    1. Adds 2 hearts, x regen -
+        Unlock: Carrot Wheat Steak WaterBucket
+    2. Adds 3 hearts
+    3. Adds 5 Hearts
+
+Health 4. - Personal Limited
+    1. Adds 10 Hearts, X regen, Saturation -
+        Unlock: DiamondBlock GoldenApple GoldenCarrot Steak.
+        Activate: GoldenCarrot
+
+
+Aspect of the Wraith
+
+
+
+
+Pylon Rituals
+    Pylon Strength - Pylon Bond
+        1. increases durability of pylon (good for mining ritual)
+
+    Growth - Pylon Bond
+
+    Mining Ritual - Pylon Limited
+        1. x amount of resources, x strength of raid
+        2. x amount of resources, x strength of raid
+        2. x amount of resources, x strength of raid
+        2. x amount of resources, x strength of raid
+
+
+
+
+
+
+
+
+
+
+Powers:
+
+Flow walking, Crouch near campfire to go into astral form
+
+Art of the small, shrink the presence of things down to edit them, then they have that property when unshrunk
+Can attach essences of things to other things.  eg: Iron gives you armor.
+
+
+
+
+    Item/block level
+        damage
+        durability
+
+        Grow/Harvest
+        Pickup Items (put into other storage?)
+        Tick Speed
+    Player/mob level
+
+        health
+        armor
+        step height
+        jump height
+        speed
+        Float while crouched  [maybe combine with jump and speed to give a long jump
+        Break rock with fist
+
+    Area level/Alter Environment.  Can set up pylons that alter all item/block/mobs in that area. can swap between pylons or select all pylons
+        Grow/harvest crops
+        Pickup items
+
+        Lightning
+        //Fire storm
+        Damaging Hail Storm
+        //Earthquake
+        Deadly sight/drain (looks like black moon scp)
+        Black Moon's howl (completely deletes a single mob, works on withers, but no drops/xp)
+        Flight in area
+        Long range Teleport
+        Pick up single mob/Place that mob (encased in wood and pulled underground)
+
+
+    Global level
+        Set Weather
+        Set Time
+        Flight everywhere
+
+
+
+So the mod is about magically altering things to have different properties, setting up pylons that have an effect on the area, and astral projecting. Question is what theme to go with?
+Nature Druid
+Mushroom/Spore Druid
+Monk Aura/The Force
+Shadows
+
+
+Pylon Passive effects:
+    Slowly turns grass into pale moss.
+    Slowly Grows eyeblossoms (up to max? or x charges?)
+
+
+
+Achievements
+Awakening - Activate a pylon
+guh! - Figure out how to activate more bonds than you have. (kills you: Players soul was pulled in too many directions)
+
+
+
+Resources:
+
+https://minecraft.wiki/w/Eyeblossom - has cool sounds

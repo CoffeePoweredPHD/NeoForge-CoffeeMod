@@ -1,0 +1,39 @@
+{
+  "itemGroup.subtleforces": "Subtle Forces",
+  "item.subtleforces.bismuth": "Bismuth",
+  "item.subtleforces.raw_bismuth": "Raw Bismuth",
+
+  "block.subtleforces.bismuth_block": "Block of Bismuth",
+
+  "block.subtleforces.magic_block": "Magic Block",
+  "tooltip.subtleforces.magic_block.tooltip": "This Block is very §9MAGICAL§r",
+
+  "block.subtleforces.bismuth_stairs": "Bismuth Stairs",
+  "block.subtleforces.bismuth_slab": "Bismuth Slab",
+
+  "block.subtleforces.bismuth_button": "Bismuth Button",
+  "block.subtleforces.bismuth_pressure_plate": "Bismuth Pressure Plate",
+
+  "block.subtleforces.bismuth_fence": "Bismuth Fence",
+  "block.subtleforces.bismuth_fence_gate": "Bismuth Fence Gate",
+  "block.subtleforces.bismuth_wall": "Bismuth Wall",
+
+  "block.subtleforces.bismuth_door": "Bismuth Door",
+  "block.subtleforces.bismuth_trapdoor": "Bismuth Trap Door",
+
+  "block.subtleforces.bismuth_lamp": "Bismuth Lamp",
+
+  "block.subtleforces.ritual_fire": "Ritual Fire",
+
+
+
+
+  "creativetab.subtleforces.subtle_items": "Subtle Forces Items",
+  "subtleforces.configuration.title": "Example Mod Configs",
+  "subtleforces.configuration.section.subtleforces.common.toml": "Example Mod Configs",
+  "subtleforces.configuration.section.subtleforces.common.toml.title": "Example Mod Configs",
+  "subtleforces.configuration.items": "Item List",
+  "subtleforces.configuration.logDirtBlock": "Log Dirt Block",
+  "subtleforces.configuration.magicNumberIntroduction": "Magic Number Text",
+  "subtleforces.configuration.magicNumber": "Magic Number"
+}

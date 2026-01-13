@@ -1,0 +1,18 @@
+{
+  "itemGroup.subtleforces": "Subtle Forces",
+  "item.subtleforces.bismuth": "Bismuth",
+  "item.subtleforces.raw_bismuth": "Raw Bismuth",
+
+  "block.subtleforces.bismuth_block": "Block of Bismuth",
+
+  "block.subtleforces.magic_block": "Magic Block",
+
+  "creativetab.subtleforces.subtle_items": "Subtle Forces Items",
+  "subtleforces.configuration.title": "Example Mod Configs",
+  "subtleforces.configuration.section.subtleforces.common.toml": "Example Mod Configs",
+  "subtleforces.configuration.section.subtleforces.common.toml.title": "Example Mod Configs",
+  "subtleforces.configuration.items": "Item List",
+  "subtleforces.configuration.logDirtBlock": "Log Dirt Block",
+  "subtleforces.configuration.magicNumberIntroduction": "Magic Number Text",
+  "subtleforces.configuration.magicNumber": "Magic Number"
+}
